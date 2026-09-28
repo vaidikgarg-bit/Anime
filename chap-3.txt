@@ -3,7 +3,6 @@ CLI
 navigate computer with terminal 
 cd 
 mkdir 
-cat 
 touch 
 echo 
 rm -r 

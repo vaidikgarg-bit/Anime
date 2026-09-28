@@ -7,3 +7,5 @@ hardware
 -SSD
 -RAM
 -CPU 
+-socket 
+-mother board 
