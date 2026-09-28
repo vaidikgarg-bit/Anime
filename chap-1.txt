@@ -2,7 +2,6 @@ basic introduction to computers
 and their impact in our lives git 
 
 types of computers 
--pc
 -embedded computers
 -super computers
 
